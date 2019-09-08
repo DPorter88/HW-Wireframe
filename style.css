@@ -39,5 +39,19 @@ aside{
 article{
     padding: 10px;
     color: #ebebeb;
-    background: #777777
+    background: #777777;
+}
+
+.clear {
+    clear: both;
+}
+
+h1,
+p {
+    width: 90%;
+    padding: 10px;
+    margin: 10px;
+    color: #777777;
+    text-align: center;
+    background: #ebebeb;
 }
